@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/typeidea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/typeidea.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,12 +173,12 @@
       <workItem from="1586766792582" duration="64000" />
       <workItem from="1586767062334" duration="237000" />
       <workItem from="1586767678804" duration="1080000" />
-      <workItem from="1586768907357" duration="2637000" />
+      <workItem from="1586768907357" duration="2950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8608000" />
+    <option name="totallyTimeSpent" value="8921000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,9 +191,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="80" width="1200" height="748" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27583188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27583188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,7 +206,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3277027" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3277027" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
